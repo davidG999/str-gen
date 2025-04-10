@@ -1,0 +1,24 @@
+{
+  "name": "@david999/str-gen",
+  "version": "1.0.0",
+  "description": "Generate random string",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidG999/str-gen.git"
+  },
+  "keywords": [
+    "string",
+    "random"
+  ],
+  "author": "david",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidG999/str-gen/issues"
+  },
+  "homepage": "https://github.com/davidG999/str-gen#readme"
+}
